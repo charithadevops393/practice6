@@ -5,4 +5,5 @@
   tasks:
     - name: install java on ubuntu os
     apt:
-      name: openjdk-17-jdk
+      name: openjdk-17-jd
+        good morningk
