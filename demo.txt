@@ -1,2 +1,6 @@
+<<<<<<< dev2
+hello devops 
+=======
 hello devops team good morning
 how are you all
+>>>>>>> main
