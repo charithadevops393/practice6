@@ -1,6 +1,6 @@
-<<<<<<< dev2
-hello devops 
-=======
-hello devops team good morning
+hello devops team 
 how are you all
->>>>>>> main
+how is your work
+what is the project status
+when you wil complete
+
